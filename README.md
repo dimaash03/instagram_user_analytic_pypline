@@ -47,7 +47,7 @@ data_engineering_project1/
 - Which user segments have the highest engagement?
 - How does posting activity relate to engagement?
 - Which users have growth potential?
-
+- What actions should be prioritized based on these insights?
  ## How to run
  - Open MySQL connection in DBeaver
  - Import data.csv into table data
