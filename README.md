@@ -33,3 +33,44 @@ data_engineering_project1/
 ├── .gitignore
 └── README.md
 
+Dataset
+Source: Kaggle
+Status: pre-cleaned dataset
+Local full file: data.csv
+Repository sample: sample.csv
+Workflow
+Load CSV data into MySQL
+Run SQL queries from analysis.sql
+Analyze outputs and extract insights
+Analytical Questions
+Which countries have the largest user base?
+Which user segments have the highest engagement?
+How does posting activity relate to engagement?
+Which users have growth potential?
+
+Dataset
+Source: Kaggle
+Status: pre-cleaned dataset
+Local full file: data.csv
+Repository sample: sample.csv
+Workflow
+Load CSV data into MySQL
+Run SQL queries from analysis.sql
+Analyze outputs and extract insights
+Analytical Questions
+Which countries have the largest user base?
+Which user segments have the highest engagement?
+How does posting activity relate to engagement?
+Which users have growth potential?
+
+How to Run
+python src/etl.py
+# then execute queries from sql/analysis.sql in DBeaver
+
+Expected Outputs
+Aggregated SQL results
+User segmentation view
+Business-focused insights for audience strategy
+Notes
+Large raw dataset is excluded from GitHub due to file size limits.
+sample.csv is included for repository reproducibility.
