@@ -40,3 +40,14 @@
 
 - Differences in average engagement are small across countries.
 - Country-level variation is mostly in user base size, not in per-user activity intensity.
+
+
+### Posting Activity vs Engagement (Q3)
+
+Higher posting frequency is strongly associated with higher engagement score.  
+As posts per week increase from 0 to 20, average engagement score rises from **74.23** to **190.59**.
+
+Key pattern:
+- Clear positive trend from low to moderate/high posting frequency.
+- After ~20 posts/week, engagement growth becomes less stable, suggesting a possible saturation effect.
+
